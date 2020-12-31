@@ -22,7 +22,7 @@ body {
     color: var(--primary-color);
     /* layout */
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 
