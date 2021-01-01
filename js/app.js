@@ -1,8 +1,8 @@
 // Get the new year 
 const getNewYear = () => {
     const currentYear = new Date().getFullYear();
-    return new Date(`January 01 ${currentYear + 1} 00:00:00`);
-    // return new Date(`December 31 ${currentYear} 15:00:00`);
+    //return new Date(`January 01 ${currentYear + 1} 00:00:00`);
+    return new Date(`December 24 ${currentYear} 17:00:00`);
 };
 
 // update the year element
