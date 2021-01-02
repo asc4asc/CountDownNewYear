@@ -19,7 +19,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    color: var(--primary-color);
+    color: var(--primary-color ,red);
     /* layout */
     display: flex;
     flex-direction: column;
